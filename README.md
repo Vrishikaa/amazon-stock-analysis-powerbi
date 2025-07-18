@@ -1,56 +1,49 @@
 # 📈 Amazon Stock Analysis (1997–2025)
 
-Welcome to my Power BI project analyzing **Amazon’s stock performance over the past three decades**. This project reflects my learning journey as I step into the world of data — exploring business growth through visual insights.
-
-> 🌟 *From a biomedical graduate and HR intern to an aspiring data analyst — every chart here tells not just Amazon's story, but a part of mine too.*
+This project presents a Power BI dashboard that analyzes the stock performance of Amazon over three decades. It is part of my transition into the data analytics field and reflects both my learning and storytelling through data.
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Objective
 
-The goal of this analysis is to:
-
-- Understand how Amazon's stock evolved from 1997 to 2025
-- Capture decade-wise performance and business milestones
-- Build interactive dashboards using Power BI
-- Strengthen my skills in data visualization, DAX, and storytelling
+To explore Amazon’s historical stock performance from 1997 to 2025 and extract key trends, patterns, and business insights through interactive Power BI visualizations.
 
 ---
 
-## 🧰 Tools & Techniques Used
+## 🛠 Tools Used
 
-- **Power BI** – for designing and building the dashboard  
-- **Microsoft Excel** – for initial data cleaning  
-- **DAX** – to create calculated fields and insights
-
----
-
-## 📊 Key Dashboard Features
-
-- 📆 **Decade-wise Performance** – 1997 to 2005, 2006 to 2015, and 2016 to 2025
-- 📈 **Interactive Charts** – closing price trends, high/low peaks, YoY analysis
-- 🟢 **KPI Cards** – quick view of Amazon’s growth over the years
-- 📌 **Storytelling Design** – highlights of key financial events like the dot-com bubble, pandemic boom, and AI wave
+- **Power BI** – for creating dynamic visuals and dashboard
+- **DAX** – for calculated measures (Rank, GroupBy, etc.)
+- **Microsoft Excel** – for initial data preparation and cleaning
 
 ---
 
-## 🌱 My Learning Journey
+## 📊 Dashboard Features
 
-- Explored time-series data in Power BI  
-- Practiced using DAX functions like `SUM`, `RANK`, `GROUPBY`, and conditional visuals  
-- Learned to design dashboards that speak visually and intuitively  
-- Understood the importance of **context + insight** in making dashboards recruiter-ready
+- 📆 Year-wise and Decade-wise stock analysis
+- 📈 High vs. Low price comparison
+- 🔍 Volume trends and closing price visuals
+- 🧠 Key insights from events like Dot-com crash, 2008 recession, COVID-19, and AI boom
 
-> 🧠 *This project gave me a deep dive into business storytelling — how raw numbers can become a compelling narrative with the right visuals.*
+---
+
+## 🧠 What I Learned
+
+- Structuring a clean and interactive Power BI dashboard
+- Using DAX functions like `SUM`, `RANK`, `GROUPBY`
+- Storytelling with data by tying business events to visual trends
+- Improved design aesthetics and layout using slicers and cards
 
 ---
 
 ## 📁 Project Structure
 
 ```bash
-Amazon-Stock-Analysis/
+amazon-stock-analysis-powerbi/
 ├── Dataset/
-│   └── Amazon_Stock_1997-2025.csv
-├── Amazon_Stock_Analysis.pbix
+│   └── amazon_stock_1997-2025.csv
+├── Dashboard/
+│   └── Amazon_Stock_Analysis.pbix
+├── LICENSE
 └── README.md
 
