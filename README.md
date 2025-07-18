@@ -1,49 +1,75 @@
-# 📈 Amazon Stock Analysis (1997–2025)
+# 📈 Amazon Stock Analysis (1997–2025) – Power BI Project
 
-This project presents a Power BI dashboard that analyzes the stock performance of Amazon over three decades. It is part of my transition into the data analytics field and reflects both my learning and storytelling through data.
+This project presents an interactive Power BI dashboard analyzing Amazon’s stock performance over nearly three decades. It marks a significant milestone in my data analytics learning journey — combining storytelling with data visualization.
 
 ---
 
 ## 🎯 Objective
 
-To explore Amazon’s historical stock performance from 1997 to 2025 and extract key trends, patterns, and business insights through interactive Power BI visualizations.
+To explore Amazon’s historical stock trends from 1997 to 2025 using Power BI and deliver insights through clean, intuitive visualizations.
 
 ---
 
-## 🛠 Tools Used
+## 🧰 Tools & Technologies
 
-- **Power BI** – for creating dynamic visuals and dashboard
-- **DAX** – for calculated measures (Rank, GroupBy, etc.)
-- **Microsoft Excel** – for initial data preparation and cleaning
+- **Power BI** – Visualization and dashboard creation
+- **Microsoft Excel** – Data preparation and cleaning
+- **DAX** – For implementing calculations and interactivity
 
 ---
 
 ## 📊 Dashboard Features
 
-- 📆 Year-wise and Decade-wise stock analysis
-- 📈 High vs. Low price comparison
-- 🔍 Volume trends and closing price visuals
-- 🧠 Key insights from events like Dot-com crash, 2008 recession, COVID-19, and AI boom
+- 📆 **Decade-wise and Year-wise filtering**
+- 📈 **High-Low closing price trends**
+- 📊 **Volume trends & key financial KPIs**
+- 📌 **Business event annotations** (Dot-com crash, COVID-19, AI growth)
+
+---
+
+## 📸 Dashboard Preview
+
+![Amazon Dashboard](Images/dashboard_preview.png)
+
+> *Click image to enlarge*
+
+---
+
+## 💡 Key Insights
+
+- Amazon saw exponential growth post-2015, with major spikes during the COVID-19 pandemic.
+- The stock was relatively stable in its early years but became increasingly volatile after 2010.
+- Volume traded decreased post-2021 despite stock price increasing — indicating long-term holding behavior.
 
 ---
 
 ## 🧠 What I Learned
 
-- Structuring a clean and interactive Power BI dashboard
-- Using DAX functions like `SUM`, `RANK`, `GROUPBY`
-- Storytelling with data by tying business events to visual trends
-- Improved design aesthetics and layout using slicers and cards
+- Created KPI cards, slicers, and interactive visuals in Power BI
+- Gained experience using `SUM`, `RANK`, `GROUPBY`, and handling `BLANK` values
+- Learned to align visual design with business insights for maximum clarity
 
 ---
 
-## 📁 Project Structure
+---
 
-```bash
-amazon-stock-analysis-powerbi/
-├── Dataset/
-│   └── amazon_stock_1997-2025.csv
-├── Dashboard/
-│   └── Amazon_Stock_Analysis.pbix
-├── LICENSE
-└── README.md
+## 🙋‍♀️ About Me
+
+I'm Vrishikaa, a Biomedical Engineering graduate and former HR Intern.  
+Now pursuing a career in data analytics with hands-on skills in Power BI, Excel, and storytelling with data.
+
+---
+
+## 🔗 Connect With Me
+
+[📍LinkedIn](https://www.linkedin.com/in/vrishikaa-krishnamoorthy-589606217)  
+Feedback and suggestions are most welcome!
+
+---
+
+## 📌 License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+---
 
