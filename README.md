@@ -3,6 +3,18 @@
 This project presents an interactive Power BI dashboard analyzing Amazon’s stock performance over nearly three decades. It marks a significant milestone in my data analytics learning journey — combining storytelling with data visualization.
 
 ---
+## 🧩 Problem Statement
+
+Amazon, one of the most influential tech giants today, has undergone dramatic stock price changes since its IPO in 1997. However, understanding the **long-term performance trends**, **volatility**, and the **impact of key business events** on its stock is often overlooked.
+
+This project addresses the following questions:
+
+- How has Amazon's stock evolved over the past three decades?
+- What major events (splits, acquisitions, leadership changes, global crises) influenced its price behavior?
+- What investment insights can be drawn from its historical trends?
+
+Using Power BI, this project performs a **time-series analysis** of Amazon’s stock performance from 1997 to 2025, combining **data visualization** and **business context** to deliver meaningful insights for analysts, investors, and learners alike.
+
 
 ## 🎯 Objective
 
@@ -30,6 +42,8 @@ To explore Amazon’s historical stock trends from 1997 to 2025 using Power BI a
 ## 📸 Dashboard Preview
 
 ![Amazon Dashboard](Images/dashboard_preview.png)
+<img width="1920" height="1200" alt="Screenshot 2025-07-17 205441" src="https://github.com/user-attachments/assets/2ade77d3-243f-4b1e-b7a4-43924de93a6d" />
+
 
 > *Click image to enlarge*
 
