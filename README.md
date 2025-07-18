@@ -56,6 +56,17 @@ To explore Amazon’s historical stock trends from 1997 to 2025 using Power BI a
 - Volume traded decreased post-2021 despite stock price increasing — indicating long-term holding behavior.
 
 ---
+📊 Business Insights (1997–2025)
+This time-series analysis of Amazon's stock uncovers strategic milestones that reflect its business evolution:
+
+📈 Exponential Growth: Strong stock appreciation, particularly post-2009, aligns with the expansion of AWS and e-commerce dominance.
+
+🔁 Stock Split Strategy: Multiple stock splits enhanced share accessibility and investor engagement.
+
+🛡️ Resilience: Amazon's quick recovery from major events like the 2008 crash and COVID-19 highlights its market robustness.
+
+👨‍💼 Leadership Confidence: The 2021 CEO transition showed minimal market disruption, indicating trust in corporate governance.
+
 
 ## 🧠 What I Learned
 
