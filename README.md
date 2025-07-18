@@ -1,78 +1,56 @@
-# 📊 Amazon Stock Price Analysis (1997–Present) | Power BI Project
+# 📈 Amazon Stock Analysis (1997–2025)
 
-## 📝 Project Overview
-This project analyzes the historical stock performance of **Amazon (AMZN)** from its IPO in 1997 to the present. Built entirely in **Power BI**, it leverages real-world stock data from **Kaggle** to uncover long-term trends in price, volume, and market behavior.
+Welcome to my Power BI project analyzing **Amazon’s stock performance over the past three decades**. This project reflects my learning journey as I step into the world of data — exploring business growth through visual insights.
 
-As an aspiring data analyst, this is my first complete project — designed to practice storytelling with data, build logic using DAX, and enhance my dashboarding skills.
-
----
-
-## 🎯 Objectives
-- Analyze Amazon's stock growth over 25+ years
-- Track and visualize trends in price, volume, and volatility
-- Build an interactive, beginner-friendly dashboard
-- Strengthen foundational skills in Power BI and DAX
+> 🌟 *From a biomedical graduate and HR intern to an aspiring data analyst — every chart here tells not just Amazon's story, but a part of mine too.*
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Power BI**
-- **DAX (Data Analysis Expressions)**
-- **Kaggle Dataset**
-- **Power Query (Data Cleaning & Transformation)**
+## 🎯 Project Objective
+
+The goal of this analysis is to:
+
+- Understand how Amazon's stock evolved from 1997 to 2025
+- Capture decade-wise performance and business milestones
+- Build interactive dashboards using Power BI
+- Strengthen my skills in data visualization, DAX, and storytelling
 
 ---
 
-## 📌 Key Features
-- Year-wise and decade-wise stock trend visualizations
-- High vs. low price comparisons
-- Volume movement and volatility tracking
-- Interactive slicers, filters, and date-based visuals
-- Clean, simple dashboard layout for better readability
+## 🧰 Tools & Techniques Used
+
+- **Power BI** – for designing and building the dashboard  
+- **Microsoft Excel** – for initial data cleaning  
+- **DAX** – to create calculated fields and insights
 
 ---
 
-## 👩‍💻 My Contribution
-This project was built independently over 2 months as part of my learning journey. I:
-- Imported, cleaned, and shaped the dataset in Power BI
-- Created multiple DAX measures and calculated columns
-- Designed and structured the dashboard layout
-- Applied logic to highlight insights over decades
+## 📊 Key Dashboard Features
 
-*AI tools were used only to guide and improve my logic framing — all implementation and visualization work was done by me.*
+- 📆 **Decade-wise Performance** – 1997 to 2005, 2006 to 2015, and 2016 to 2025
+- 📈 **Interactive Charts** – closing price trends, high/low peaks, YoY analysis
+- 🟢 **KPI Cards** – quick view of Amazon’s growth over the years
+- 📌 **Storytelling Design** – highlights of key financial events like the dot-com bubble, pandemic boom, and AI wave
 
 ---
 
-## 📂 Dataset
-- Source: [Kaggle - Amazon Stock Data](https://www.kaggle.com/datasets) *(Link to your exact dataset, if available)*
-- Format: `.csv`
-- Timeline: 1997–Present
+## 🌱 My Learning Journey
+
+- Explored time-series data in Power BI  
+- Practiced using DAX functions like `SUM`, `RANK`, `GROUPBY`, and conditional visuals  
+- Learned to design dashboards that speak visually and intuitively  
+- Understood the importance of **context + insight** in making dashboards recruiter-ready
+
+> 🧠 *This project gave me a deep dive into business storytelling — how raw numbers can become a compelling narrative with the right visuals.*
 
 ---
 
-## 📷 Dashboard Preview
-*(Include a screenshot here if possible)*
+## 📁 Project Structure
 
----
-
-## 🚀 What's Next?
-- Apply Power BI time intelligence functions
-- Compare other FAANG stocks over the same timeline
-- Explore forecasting and trend prediction in Power BI
-
----
-
-## 💬 Feedback
-I'm still early in my data journey and always open to learning —  
-**Feel free to share any feedback or suggestions!**
-
----
-
-## 📎 File Info
-- 📁 `Amazon Stock Analysis.pbix` – Full Power BI project file
-
----
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/vrishikaa-krishnamoorthy-589606217)
+```bash
+Amazon-Stock-Analysis/
+├── Dataset/
+│   └── Amazon_Stock_1997-2025.csv
+├── Amazon_Stock_Analysis.pbix
+└── README.md
 
